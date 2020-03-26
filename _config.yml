@@ -34,7 +34,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://NDawid.github.io/gallery/"  
-  - JOURNAL: "https://NDawid.github.io/journal/"
+#  - JOURNAL: "https://NDawid.github.io/journal/"
   - ABOUT: "https://NDawid.github.io/about/"
 
 # All translation keys
