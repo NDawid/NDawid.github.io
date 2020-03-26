@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://NDawid.github.io/photorama/gallery/"  
-  - JOURNAL: "https://NDawid.github.io/photorama/journal/"
-  - ABOUT: "https://NDawid.github.io/photorama/about/"
+  - GALLERY: "https://NDawid.github.io/gallery/"  
+  - JOURNAL: "https://NDawid.github.io/journal/"
+  - ABOUT: "https://NDawid.github.io/about/"
 
 # All translation keys
 translations:
